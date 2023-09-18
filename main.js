@@ -1,5 +1,5 @@
 
-const music = new Audio('audio/alen/15.mp3');
+const music = new Audio('audio/Alen/15.mp3');
 
 let wave = document.getElementById('wave');
 let wave1 = document.getElementsByClassName('wave1');
@@ -881,7 +881,7 @@ Alen_song.forEach(element => {
     card.addEventListener('click', ()=>{
 
         index = Alenid;
-        console.log(index);
+        // console.log(index);
         music.src=`audio/Alen/${index}.mp3`;
         download_music.href = `audio/Alen/${index}.mp3`;
         // poster_master_play.src=`imags/bg.png`;
