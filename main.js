@@ -402,7 +402,7 @@ const song=[
     {
         id: 2,
         songName:`Heeriye Heeriye<br>
-        <div class="subtitle">Arigit Singh</div>`,
+        <div class="subtitle">Arijit Singh</div>`,
         poster:"imags/heeriye.jpg"
     },
     {
@@ -420,13 +420,13 @@ const song=[
     {
         id: 5,
         songName:` O Bedardeya<br>
-        <div class="subtitle">Arigit Singh</div>`,
+        <div class="subtitle">Arijit Singh</div>`,
         poster:"imags/O Bedardeya.jpg"
     },
     {
         id: 6,
         songName:` Hum Mar Jayenge<br>
-        <div class="subtitle">Arigit Singh</div>`,
+        <div class="subtitle">Arijit Singh</div>`,
         poster:"imags/hum mar jayenge.jpg"
     },
     {
@@ -438,7 +438,7 @@ const song=[
     {
         id: 8,
         songName:` O Desh Mere<br>
-        <div class="subtitle">Arigit Singh</div>`,
+        <div class="subtitle">Arijit Singh</div>`,
         poster:"imags/desh mere.jpg"
     },
     {
@@ -450,7 +450,7 @@ const song=[
     {
         id: 10,
         songName:` Humdard<br>
-        <div class="subtitle">Arigit Singh</div>`,
+        <div class="subtitle">Arijit Singh</div>`,
         poster:"imags/Humdard.jpg"
     },
     {
@@ -462,7 +462,7 @@ const song=[
     {
         id: 12,
         songName:` Jhoome Jo Pathaan<br>
-        <div class="subtitle">Arigit Singh</div>`,
+        <div class="subtitle">Arijit Singh</div>`,
         poster:"imags/Jhoome Jo Pathaan.jpg"
     },
     {
@@ -480,13 +480,13 @@ const song=[
     {
         id: 15,
         songName:` Kashmir Main , Tu Kanyakumari<br>
-        <div class="subtitle">Arigit Singh</div>`,
+        <div class="subtitle">Arijit Singh</div>`,
         poster:"imags/Kashmir Main Tu Kanyakumari.jpg"
     },
     {
         id: 16,
         songName:` Naina<br>
-        <div class="subtitle">Arigit Singh</div>`,
+        <div class="subtitle">Arijit Singh</div>`,
         poster:"imags/Naina.jpg"
     },
     {
@@ -498,7 +498,7 @@ const song=[
     {
         id: 18,
         songName:` Kesariya<br>
-        <div class="subtitle">Arigit Singh</div>`,
+        <div class="subtitle">Arijit Singh</div>`,
         poster:"imags/kesariya.jpg"
     },
     {
