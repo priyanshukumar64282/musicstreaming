@@ -742,9 +742,7 @@ header .menu_side .playlist h4:hover{
 
 /* responsivecode */
 @media (max-width:786px){
-  body{
-      min-height: 80vh;
-      }
+  
   header{
     position: absolute;
     /*border: 1px solid  white;*/
