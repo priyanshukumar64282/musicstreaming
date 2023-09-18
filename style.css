@@ -17,7 +17,7 @@ body{
 
 header{
     width: 85%;
-    max-height: fit-content;
+    height: 95%;
     position: relative;
     /*border: 1px solid  white;*/
     display: flex;
