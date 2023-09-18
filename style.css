@@ -754,7 +754,7 @@ header .menu_side .playlist h4:hover{
 /* responsivecode */
 @media (max-width:786px){
   body{
-      min-height: fit-content;
+      min-height: 30vh;
       }
   header{
     position: absolute;
