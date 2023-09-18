@@ -408,16 +408,7 @@ header .menu_side .playlist h4:hover{
     background-position-x:center;
   }
 
-  header .song_side::after {
-    content: '';
-    position: absolute;
-    width: 90%;
-    height: 300px;
-    z-index: -10;
-    background: url(artist_image/arijitsingh.png);
-    background-repeat: no-repeat;
-    background-position-x:center;
-  }
+  
 
   header .song_side nav{
     width: 90%;
